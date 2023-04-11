@@ -1,0 +1,7 @@
+.vscode
+*.o
+/bin
+*.out
+*.txt
+# ignore output files
+
